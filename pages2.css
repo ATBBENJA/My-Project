@@ -1,0 +1,18 @@
+@import "https://maxdn.bootstrapcdn.com/font-awesom/4.7.0/css/font-awesome.min.css";
+body{
+ background-image: url("fond.jpg")
+}
+.fiche-technique{
+  position: absolute;
+  top : 50%;
+  left: 48%;
+  transform: translate(-50%,-50%);
+  color: white;}
+
+.titre{
+  margin-left: 470px;
+  color: white;
+  color: rgb(115,17,30);
+}
+
+ width: 200px;
